@@ -1,3 +1,11 @@
+#
+# @file         Build a Dashboard Apps with Plotly Dash.py
+# @author       Erwin Rabano Pasia
+# @version      V1.0
+# @date         2023/15/01
+# @description  This is the code for the Dashboard Web Apps using Plotly Dash.
+#
+
 # Import required libraries
 import pandas as pd
 import dash
