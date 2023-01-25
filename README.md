@@ -5,7 +5,7 @@
 </p>
 
 
-# Applied-Data-Science---Capstone-Project-
+# Applied Data Science-CapstoneProject
 
 This is the final course in the "IBM Data Science Professional Certificate" as well as the "Applied Data Science with Python Specialization" programs. This capstone project course will give the Professional or Specialization Certificate completer the chance to practice the work that "Data Scientists" do in real life when working with datasets.  
 
