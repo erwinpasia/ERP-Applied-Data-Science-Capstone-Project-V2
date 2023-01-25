@@ -1,5 +1,5 @@
 <p style="text-align:center">
-    <a href="https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science" target="_blank">
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3F62TM7PSHP2" target="_blank">
     <img src="https://github.com/erwinpasia/Applied-Data-Science---Capstone-Project-V2/blob/main/images/IBM%20DS-PC.png" alt="IBM Data Science Professional Certificate"  />
     </a>
 </p>
