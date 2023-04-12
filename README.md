@@ -1,4 +1,4 @@
-# Applied Data Science - Capstone Project - COMPLETED!
+# (Applied Data Science - Capstone Project)[https://www.coursera.org/verify/WF55WBMGFHB9] - COMPLETED!
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/verify/WF55WBMGFHB9" target="_blank">
