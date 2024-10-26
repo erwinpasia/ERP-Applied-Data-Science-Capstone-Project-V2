@@ -2,13 +2,13 @@
 
 The IBM Data Science Professional Certificate's Capstone Project serves as a comprehensive application of the skills acquired throughout the program. This project is designed to simulate a real-world data science task, where students take on the role of a data scientist working for a startup aiming to compete with SpaceX. The primary objective is to predict whether the first stage of SpaceX's Falcon 9 rocket will land successfully, which is crucial for reducing launch costs and making informed bidding decisions against SpaceX.
 
-**Project Overview**
+## **Project Overview**
 
-**Objective**
+### **Objective**
 
 The capstone project focuses on applying data science methodologies to predict the success of the Falcon 9 rocket's first stage landing. The successful completion of this project allows students to demonstrate their proficiency in data science and machine learning, adding a significant project to their professional portfolio.
 
-**Data Science Methodology**
+### **Data Science Methodology**
 
 The project involves several key steps that mirror the typical workflow of a data scientist:
 
@@ -26,7 +26,7 @@ The project involves several key steps that mirror the typical workflow of a dat
 
 - **Reporting:** Finally, students compile their findings into a business case report intended for stakeholders, showcasing how these insights can inform strategic decisions.
 
-**Tools and Techniques**
+### **Tools and Techniques**
 
 - **Programming Languages:** Python is primarily used for scripting and analysis.
 
@@ -34,7 +34,7 @@ The project involves several key steps that mirror the typical workflow of a dat
 
 - **Data Sources:** SpaceX API for real-time data collection; web scraping tools like Beautiful Soup are also utilized.
 
-**Outcome**
+### **Outcome**
 
 By completing this capstone project, students gain hands-on experience with real-world datasets and enhance their problem-solving skills. They learn how to apply theoretical knowledge in practical scenarios, making them better prepared for careers in data science. Additionally, they produce a tangible project that can be showcased to potential employers as part of their professional portfolio.
 
