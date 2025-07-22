@@ -4,6 +4,8 @@
 
 ## 🎯 The CENTRAL Question Framework
 
+![pl](images/Machine_Learning_Techniques_DSJ_2.png)
+
 Start every ML project by asking yourself: **"What do you want to do?"** This simple question unlocks the entire decision tree and guides you to the right technique family.
 
 ## 📈 The SUPERVISED Learning Path: "I Have Examples"
